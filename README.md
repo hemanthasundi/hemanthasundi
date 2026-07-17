@@ -2,9 +2,11 @@
 
 # Hemanth Asundi
 
-### Aspiring Data Analyst | Python | SQL | Excel | Data Visualization
+### Data Analyst | Python | SQL | Excel | Data Visualization
 
-Transforming raw data into meaningful business insights through data analysis, visualization, and data-driven decision-making.
+Building data-driven solutions by transforming raw data into meaningful business insights.
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Exploring+Data+Analytics+%26+Business+Insights" />
 
 </div>
 
@@ -12,48 +14,55 @@ Transforming raw data into meaningful business insights through data analysis, v
 
 ## About Me
 
-I am an aspiring Data Analyst passionate about analyzing data, discovering patterns, and generating insights that help businesses make better decisions.
+I am an aspiring Data Analyst passionate about discovering insights from data and solving business problems through analytics.
 
-- Building practical Data Analytics projects using real-world datasets
-- Skilled in Python-based data analysis and visualization techniques
-- Experienced in data cleaning, Exploratory Data Analysis (EDA), and business insights generation
-- Interested in Business Analytics, Data Visualization, and Data Storytelling
-- Currently improving my skills in Advanced SQL and Power BI
+My focus areas include:
+
+- Data Cleaning and Preparation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
+- Data-driven Decision Making
+
+Currently building real-world analytics projects and improving my skills in SQL, Python, Excel, and Power BI.
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-### Programming & Query Languages
+## Programming & Database
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
 </p>
 
-### Data Analysis Libraries
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+## Data Analysis & Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
 </p>
 
-### Data Visualization & Analytics Tools
 
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+## Tools
 
-### Tools
+<p align="left">
 
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
 </p>
 
 ---
@@ -62,32 +71,34 @@ I am an aspiring Data Analyst passionate about analyzing data, discovering patte
 
 ## Ecommerce Sales & Customer Analytics
 
-A Python-based Data Analytics project focused on analyzing ecommerce transaction data to understand sales performance, customer behavior, and revenue trends.
+A Python-based analytics project focused on understanding ecommerce sales performance, customer behavior, and revenue patterns.
 
-### Project Highlights
+### Project Work
 
-- Cleaned and prepared raw ecommerce data
-- Performed Exploratory Data Analysis (EDA)
-- Analyzed revenue contribution by category and region
-- Studied customer purchasing patterns
-- Performed correlation analysis to identify relationships between variables
-- Created visualizations to communicate business insights
+✔ Data Cleaning and Data Quality Checks  
+✔ Exploratory Data Analysis (EDA)  
+✔ Sales and Revenue Analysis  
+✔ Customer Behavior Analysis  
+✔ Correlation Analysis  
+✔ Data Visualization  
+✔ Business Insight Generation  
 
-### Technologies Used
+### Technology Stack
 
+```
 Python | Pandas | NumPy | Matplotlib | Seaborn | Excel
+```
 
 ---
 
-# Analytics Skills
+# Analytics Capabilities
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
-- Business Insight Generation
-- Data Storytelling
-- Dashboard Reporting
+| Area | Skills |
+|------|--------|
+| Data Preparation | Cleaning, Transformation, Validation |
+| Analysis | EDA, Statistical Analysis, Trend Analysis |
+| Visualization | Charts, Heatmaps, Business Reporting |
+| Insights | Pattern Identification, Recommendations |
 
 ---
 
@@ -95,14 +106,15 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Excel
 
 - Advanced SQL
 - Power BI Dashboard Development
-- Business Intelligence
-- Advanced Analytics Techniques
+- Business Analytics
+- Data Storytelling
 
 ---
 
 # Connect With Me
 
-<p>
+<p align="left">
+
 <a href="https://www.linkedin.com/in/asundi-hemanth-1752713b3">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -121,6 +133,6 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Excel
 
 <div align="center">
 
-Thank you for visiting my profile.
+Thank you for visiting my GitHub profile.
 
 </div>
